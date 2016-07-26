@@ -1,0 +1,7 @@
+{
+  "version": "1.0.45",
+  "downloads": {
+    "GameHackCloud": "https://raw.githubusercontent.com/aleks-s/GameHackCloud/master/GameHackCloud.exe",
+    "RustInternal": "https://raw.githubusercontent.com/aleks-s/GameHackCloud/master/RustInternal.dll"
+  }
+}
