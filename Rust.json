@@ -1,8 +1,8 @@
 {
-  "hackActivated": true,
+  "hackActivated": false,
   "keys": {
     "88CDDDA4-807C3BBC-4FA27D4C-73328660": {
-      "activated": false,
+      "activated": true,
       "activationTime": 1479458479,
       "days": 30
     },
